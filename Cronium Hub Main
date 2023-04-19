@@ -58,7 +58,7 @@ local Window = Rayfield:CreateWindow({
  local Button = Tab:CreateButton({
    Name = "Milk Up [KEYLESS]",
    Callback = function()
-       loadstring(game:HttpGet('https://raw.githubusercontent.com/7ccs/Milk-Up/main/Milk-Up-Main'))()
+       loadstring(game:HttpGet(''))()
    end,
 })
 
