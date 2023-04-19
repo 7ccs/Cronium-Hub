@@ -45,6 +45,7 @@ local Window = Rayfield:CreateWindow({
     Name = "Cronium Trade Scam [NOT PATCHED]",
     Callback = function()
         loadstring(game:HttpGet('https://raw.githubusercontent.com/7ccs/Cronium-Hub/main/Cronium%20Trade%20Scam'))()
+        Rayfield:Destroy()
     end,
  })
 
